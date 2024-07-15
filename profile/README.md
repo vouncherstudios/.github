@@ -4,6 +4,7 @@
 
 - [website](https://github.com/vouncherstudios/website) - The official website for Vouncher Studios.
 - [strawberry](https://github.com/vouncherstudios/strawberry) - A gradle plugin to apply common organization build settings.
+- [qrcode-creator](https://github.com/vouncherstudios/qrcode-creator) - A QR code creator to use in our services.
 - [nexus](https://github.com/vouncherstudios/nexus) - A runtime dependency management library for Java.
 
 -----
