@@ -6,6 +6,7 @@
 - [strawberry](https://github.com/vouncherstudios/strawberry) - A gradle plugin to apply common organization build settings.
 - [qrcode-creator](https://github.com/vouncherstudios/qrcode-creator) - A QR code creator to use in our services.
 - [nexus](https://github.com/vouncherstudios/nexus) - A runtime dependency management library for Java.
+- [acf](https://github.com/vouncherstudios/acf) - A custom fork of aikar commands framework.
 
 -----
 Access our [discord](https://discord.gg/crZaJj9Pgq) to learn more about it.
