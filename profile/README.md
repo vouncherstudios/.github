@@ -10,4 +10,4 @@
 - [polymart-webhook-server](https://github.com/vouncherstudios/polymart-webhook-server) - A lightweight server to receive and validate Polymart webhooks, and forward the formatted information to a Discord channel.
 
 -----
-Access our [discord](https://discord.gg/crZaJj9Pgq) to learn more about it.
+Access our [discord](https://discord.gg/t2sHyKAxU3) to learn more about it.
